@@ -10,7 +10,7 @@
 
 ## Blogs / Thoughts
 
-- [Cake Framework by Frontier tech](https://frontier.tech/the-cake-framework)
+-  [Cake Framework by Frontier tech](https://frontier.tech/the-cake-framework)
 - [Chain Abstraction: Shaping User-Centric Blockchain Interactions](https://paragraph.xyz/@cmtdigital/chain-abstraction)
 - [Chain Abstraction - The Ultimate User Experience? by Nairolf](https://0xnairolf.substack.com/p/chain-abstraction-the-ultimate-user)
 - [Chain Abstraction on Multiple Levels: Diverse User Experiences Inside Web3’s Evolution by Particle Network and Agoric](https://blog.particle.network/chain-abstraction-levels-user-experience)
@@ -38,6 +38,8 @@
 - [Omnichain Smart Accounts with ERC-7579 Modules](https://blog.rhinestone.wtf/omnichain-smart-accounts-with-erc-7579-modules-170b21cc5b50)
 - [Boundless Horizons: New Web3 Primitive by Cycle Network](https://cycle-network.medium.com/boundless-horizons-new-web3-primitive-082192ffc803)
 - [A Universal, Secure and Verifiable Chain Abstraction Architecture by Cycle Network](https://www.cyclenetwork.io/whitepaper.pdf)
+- [What is NOT Chain Abstraction?](https://www.decipherclub.com/tag/chain_abstraction/) 
+
 
 ## Twitter posts & threads
 
